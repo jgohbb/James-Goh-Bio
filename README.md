@@ -1,2 +1,2 @@
 # James-Goh-Bio
-my very first bio creation...fun!
+My very first bio creation on html...fun!
